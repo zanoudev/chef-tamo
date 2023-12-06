@@ -1,0 +1,102 @@
+{
+    "produce": {
+      "Vegetables": [
+        {"id": 1, "name": "Carrot"},
+        {"id": 2, "name": "Broccoli"},
+        {"id": 3, "name": "Tomato"},
+        {"id": 4, "name": "Spinach"},
+        {"id": 5, "name": "Bell Pepper"},
+        {"id": 6, "name": "Cucumber"},
+        {"id": 7, "name": "Zucchini"},
+        {"id": 8, "name": "Onion"},
+        {"id": 9, "name": "Garlic"},
+        {"id": 10, "name": "Potato"}
+      ],
+      "Fruits": [
+        {"id": 11, "name": "Apple"},
+        {"id": 12, "name": "Banana"},
+        {"id": 13, "name": "Orange"},
+        {"id": 14, "name": "Grapes"},
+        {"id": 15, "name": "Strawberries"},
+        {"id": 16, "name": "Pineapple"},
+        {"id": 17, "name": "Mango"},
+        {"id": 18, "name": "Peach"},
+        {"id": 19, "name": "Kiwi"},
+        {"id": 20, "name": "Watermelon"}
+      ],
+      "Meats": [
+        {"id": 71, "name": "Chicken"},
+        {"id": 72, "name": "Beef"},
+        {"id": 73, "name": "Pork"},
+        {"id": 74, "name": "Salmon"},
+        {"id": 75, "name": "Shrimp"},
+        {"id": 76, "name": "Bacon"},
+        {"id": 77, "name": "Turkey"},
+        {"id": 78, "name": "Lamb"},
+        {"id": 79, "name": "Sausages"},
+        {"id": 80, "name": "Steak"}
+      ],
+      "Dairy": [
+        {"id": 21, "name": "Milk"},
+        {"id": 22, "name": "Cheese"},
+        {"id": 23, "name": "Yogurt"},
+        {"id": 24, "name": "Butter"},
+        {"id": 25, "name": "Eggs"},
+        {"id": 26, "name": "Cream"},
+        {"id": 27, "name": "Cottage Cheese"},
+        {"id": 28, "name": "Parmesan"},
+        {"id": 29, "name": "Sour Cream"},
+        {"id": 30, "name": "Cream Cheese"}
+      ],
+      "Pantry": [
+        {"id": 31, "name": "Rice"},
+        {"id": 32, "name": "Pasta"},
+        {"id": 33, "name": "Canned Beans"},
+        {"id": 34, "name": "Quinoa"},
+        {"id": 35, "name": "Oats"},
+        {"id": 36, "name": "Flour"},
+        {"id": 37, "name": "Cereal"},
+        {"id": 38, "name": "Peanut Butter"},
+        {"id": 39, "name": "Honey"},
+        {"id": 40, "name": "Canned Tomatoes"}
+      ],
+      "Spices": [
+        {"id": 41, "name": "Salt"},
+        {"id": 42, "name": "Pepper"},
+        {"id": 43, "name": "Cumin"},
+        {"id": 44, "name": "Paprika"},
+        {"id": 45, "name": "Cinnamon"},
+        {"id": 46, "name": "Garlic Powder"},
+        {"id": 47, "name": "Chili Powder"},
+        {"id": 48, "name": "Oregano"},
+        {"id": 49, "name": "Basil"},
+        {"id": 50, "name": "Thyme"}
+      ],
+      "Condiments": [
+        {"id": 51, "name": "Ketchup"},
+        {"id": 52, "name": "Mustard"},
+        {"id": 53, "name": "Mayonnaise"},
+        {"id": 54, "name": "Soy Sauce"},
+        {"id": 55, "name": "Worcestershire Sauce"},
+        {"id": 56, "name": "Hot Sauce"},
+        {"id": 57, "name": "Barbecue Sauce"},
+        {"id": 58, "name": "Ranch Dressing"},
+        {"id": 59, "name": "Honey Mustard"},
+        {"id": 60, "name": "Salsa"}
+      ],
+      "Baking": [
+        {"id": 61, "name": "Flour"},
+        {"id": 62, "name": "Sugar"},
+        {"id": 63, "name": "Chocolate Chips"},
+        {"id": 64, "name": "Baking Powder"},
+        {"id": 65, "name": "Baking Soda"},
+        {"id": 66, "name": "Vanilla Extract"},
+        {"id": 67, "name": "Cocoa Powder"},
+        {"id": 68, "name": "Cornstarch"},
+        {"id": 69, "name": "Nuts"},
+        {"id": 70, "name": "Dried Fruits"}
+      ]
+
+    }
+}
+  

@@ -27,26 +27,37 @@
         <div class="search">
             <input type="text" id="search-bar" placeholder="Search Ingredients">
 
-            <div class="chips">
-                <span class="chip">Vegetables</span>
-                <span class="chip">Fruits</span>
-                <span class="chip">Condiments</span>
-                <span class="chip">Pantry</span>
-                <span class="chip">Baking</span>
-                <!-- Add more categories as needed -->
+            <div class="chips" id="category-chips">
+                <span class="chip" data-category="Vegetables">Vegetables</span>
+                <span class="chip" data-category="Fruits">Fruits</span>
+                <span class="chip" data-category="Dairy">Dairy</span>
+                <span class="chip" data-category="Meats">Meats</span>
+                <span class="chip" data-category="Spices">Spices</span>
+                <span class="chip" data-category="Condiments">Condiments</span>
+                <span class="chip" data-category="Pantry">Pantry</span>
+                <span class="chip" data-category="Baking">Baking</span>
+                <!-- more categories will be added? -->
             </div>
         </div>
     </div>
 
     <div class="side-panel" id="fridge-panel">
-        <div id="fridge-panel-text"><h1>My Fridge Content</h1></div>
+        <div id="fridge-panel-text"><h1>My Fridge</h1></div>
+        <div id="fridge-panel-content"></div>
     </div>
     
     <div class="side-panel" id="grocery-list-panel">
-        <div id="grocery-list-panel-text"><h1>My Grocery List Content</h1></div>
+        <div id="grocery-list-panel-text"><h1>My Grocery List</h1></div>
+        <div id="grocery-list-panel-content"></div>
     </div>
     
-    
-    
+    <div id="items-container">
+        <!-- Items are dynamically added here -->
+    </div>
+
+    <div class="popup-container"></div>
+
+    <script src="items.json"></script>
+
 </body>
 </html>
